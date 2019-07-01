@@ -1,0 +1,12 @@
+﻿--CREATE PROC [proc_community].[GetOnlineCommunityByID]
+--(
+--	@groupid BIGINT
+--)
+--AS
+--BEGIN
+--	SELECT oc.*, ocmment.*,ocr.*,sa.student_ProfileImage,sa.student_ad_username FROM studentinfo.Online_Community_Comment ocmment 
+--	LEFT JOIN studentinfo.Online_Community_Comment_Reply ocr ON ocmment.Community_Comment_ID = ocr.Community_Comment_FK_ID
+--	LEFT JOIN studentinfo.Online_Community oc ON oc.Community_ID = ocmment.Community_FK_ID
+--	LEFT JOIN studentinfo.Student_Additional sa ON sa.student_Fk_ID = ocmment.student_Fk_ID
+--	WHERE oc.Community_ID=@groupid
+--END

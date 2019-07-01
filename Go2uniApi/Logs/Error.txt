@@ -1,0 +1,1068 @@
+##STARTED##2018719
+2018719Procedure or function 'SP_StudentLogIn' expects parameter '@UserName', which was not supplied.
+2018719Procedure or function 'SP_StudentLogIn' expects parameter '@UserName', which was not supplied.
+2018720The ConnectionString property has not been initialized.
+2018724The ConnectionString property has not been initialized.
+2018724The ConnectionString property has not been initialized.
+2018724Topic
+2018724Topic
+2018724Topic
+2018724Topic
+2018726Community_status
+2018726Procedure or function SP_GetCommentByGroupID has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+2018728Procedure or function SP_GetStudyGroupTopic has too many arguments specified.
+201889String[2]: the Size property has an invalid size of 0.
+201889Could not find stored procedure 'SP_LogIn'.
+2018817Procedure or function 'SP_GetCollegeEventDetails' expects parameter '@ID', which was not supplied.
+2018817Procedure or function 'SP_GetCollegeEventDetails' expects parameter '@ID', which was not supplied.
+2018817Procedure or function 'SP_GetCollegeEventDetails' expects parameter '@ID', which was not supplied.
+2018817Procedure or function 'SP_GetAllNextCollegeCommentByEventID' expects parameter '@EventID', which was not supplied.
+2018817Procedure or function 'SP_GetAllNextCollegeCommentByEventID' expects parameter '@EventID', which was not supplied.
+2018820A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018820A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018820A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018820A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018820IsUpcoming
+2018820IsUpcoming
+2018820IsUpcoming
+2018820IsUpcoming
+2018820The INSERT statement conflicted with the FOREIGN KEY constraint "FK__SetStudyP__Group__336AA144". The conflict occurred in database "Go2uni", table "studentinfo.Study_Group", column 'Group_ID'.
+The statement has been terminated.
+2018820The INSERT statement conflicted with the FOREIGN KEY constraint "FK__SetStudyP__Group__336AA144". The conflict occurred in database "Go2uni", table "studentinfo.Study_Group", column 'Group_ID'.
+The statement has been terminated.
+2018820The INSERT statement conflicted with the FOREIGN KEY constraint "FK__SetStudyP__Group__336AA144". The conflict occurred in database "Go2uni", table "studentinfo.Study_Group", column 'Group_ID'.
+The statement has been terminated.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetailsByTopicID' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018823Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018824A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018824Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018824Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018824Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018824Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018824Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018824Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+2018824Procedure or function 'SP_GetallTopicDetails' expects parameter '@Topic_ID', which was not supplied.
+201895Procedure or function 'SP_GetMemberListByGroupID' expects parameter '@GroupID', which was not supplied.
+201897Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=639; handshake=990; 
+201897A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+201897A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018914A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018914Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2018914A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018914A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018914Student_Email
+2018914Student_Email
+2018914Student_Email
+2018914Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2018914A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018914A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018914Student_Email
+2018916Could not find stored procedure 'dbo.SP_InsertStudentInfo'.
+2018916Procedure or function 'SP_UpdateStudentInfo' expects parameter '@FavoriteBooks', which was not supplied.
+2018916Procedure or function 'SP_UpdateStudentInfo' expects parameter '@FavoriteBooks', which was not supplied.
+2018916A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018916A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018916A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018916Procedure or function 'SP_UpdateStudentInfo' expects parameter '@FavoriteBooks', which was not supplied.
+2018916Procedure or function 'SP_UpdateStudentInfo' expects parameter '@FavoriteBooks', which was not supplied.
+2018917A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018917A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018917A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018917A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018918A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018918A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018918Semester
+2018918Invalid column name 'SectionID'.
+2018918Invalid column name 'SectionID'.
+2018918Password
+2018918Password
+2018918Password
+2018918Password
+2018918Password
+2018918Password
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Invalid object name 'admin.MasterSection'.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018919Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Object cannot be cast from DBNull to other types.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Object cannot be cast from DBNull to other types.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018921Object cannot be cast from DBNull to other types.
+2018921Object cannot be cast from DBNull to other types.
+2018921Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Object cannot be cast from DBNull to other types.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Object cannot be cast from DBNull to other types.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Object cannot be cast from DBNull to other types.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Object cannot be cast from DBNull to other types.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Object cannot be cast from DBNull to other types.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Object cannot be cast from DBNull to other types.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Object cannot be cast from DBNull to other types.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Object cannot be cast from DBNull to other types.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2018924SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2018924SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018924Procedure or function 'SP_GetStudentProfileInfo' expects parameter '@StudentID', which was not supplied.
+2018924Procedure or function 'SP_GetStudentProfileInfo' expects parameter '@StudentID', which was not supplied.
+2018927Procedure or function 'SP_GetGoalDetails' expects parameter '@StudentID', which was not supplied.
+2018928Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2018928A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018105Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018105Procedure or function 'SP_GetGoalDetails' expects parameter '@StudentID', which was not supplied.
+20181013A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+20181013Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181022A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+20181023Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181023Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181023Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181023Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181023Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181023Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181023Procedure or function 'SP_InsertStudentInfo' expects parameter '@UserName', which was not supplied.
+20181023Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181023Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181023Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181023Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181023Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181025Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181027Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetEditProfileDetails' expects parameter '@StudentID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetEditProfileDetails' expects parameter '@StudentID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetEditProfileDetails' expects parameter '@StudentID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetEditProfileDetails' expects parameter '@StudentID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetEditProfileDetails' expects parameter '@StudentID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Stu_Favorite_Books
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Stu_Favorite_Books
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Incorrect syntax near the keyword 'where'.
+20181029Incorrect syntax near the keyword 'where'.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Incorrect syntax near the keyword 'where'.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Incorrect syntax near the keyword 'where'.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181029Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+20181030Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+20181030Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030The parameterized query '(@StudentID bigint,@Name nvarchar(15),@Imagepath nvarchar(4000),' expects the parameter '@Imagepath', which was not supplied.
+20181030Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181030UserName
+20181030ProfileImage
+20181030SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+20181030SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+20181030SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+20181031A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.)
+20181031Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181031Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018111Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018111A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018111A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018111A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018111A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018111A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018111Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018111Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112A connection was successfully established with the server, but then an error occurred during the login process. (provider: SSL Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+2018112A connection was successfully established with the server, but then an error occurred during the login process. (provider: SSL Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+2018112A connection was successfully established with the server, but then an error occurred during the login process. (provider: SSL Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+2018112A connection was successfully established with the server, but then an error occurred during the login process. (provider: SSL Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+2018112A connection was successfully established with the server, but then an error occurred during the login process. (provider: SSL Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+2018112A connection was successfully established with the server, but then an error occurred during the login process. (provider: SSL Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Must declare the scalar variable "@Imagepath".
+2018112Must declare the scalar variable "@Imagepath".
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Must declare the scalar variable "@Imagepath".
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Must declare the scalar variable "@StreamID".
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018115Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018115Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018115Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018115Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018115Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+2018115Invalid column name 'StudentID_FK'.
+Invalid column name 'StudentID_FK'.
+2018115Invalid column name 'StudentID_FK'.
+Invalid column name 'StudentID_FK'.
+2018115Invalid column name 'StudentID_FK'.
+Invalid column name 'StudentID_FK'.
+2018115Invalid column name 'StudentID_FK'.
+Invalid column name 'StudentID_FK'.
+2018115Invalid column name 'StudentID_FK'.
+Invalid column name 'StudentID_FK'.
+2018115Invalid column name 'StudentID_FK'.
+Invalid column name 'StudentID_FK'.
+2018116Stu_Name 
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018116Could not find stored procedure ''.
+2018119A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+20181110Object cannot be cast from DBNull to other types.
+20181112Could not find stored procedure ''.
+20181112Could not find stored procedure ''.
+20181112Could not find stored procedure ''.
+20181112DivID
+20181112DivID
+20181112Class
+20181112Could not find stored procedure ''.
+20181112Could not find stored procedure ''.
+20181112Could not find stored procedure ''.
+20181112Could not find stored procedure ''.
+20181112Could not find stored procedure ''.
+20181112Could not find stored procedure ''.
+20181112Procedure or function 'SP_GetAllStream' expects parameter '@ClassID', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The parameterized query '(@Class_Name nvarchar(4000),@Div_ID int,@Level_ID int,@CreatedBy' expects the parameter '@Class_Name', which was not supplied.
+20181123The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Class__Div_ID__02883E1E". The conflict occurred in database "Go2uni", table "admin.Division", column 'ID'.
+The statement has been terminated.
+20181123The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Class__Div_ID__02883E1E". The conflict occurred in database "Go2uni", table "admin.Division", column 'ID'.
+The statement has been terminated.
+20181123The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Class__Div_ID__02883E1E". The conflict occurred in database "Go2uni", table "admin.Division", column 'ID'.
+The statement has been terminated.
+20181123The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Class__Div_ID__02883E1E". The conflict occurred in database "Go2uni", table "admin.Division", column 'ID'.
+The statement has been terminated.
+20181124Procedure or function 'SP_TeacherbyPrincipal' expects parameter '@Subject', which was not supplied.
+20181124Procedure or function 'SP_TeacherbyPrincipal' expects parameter '@Subject', which was not supplied.
+20181124Procedure or function 'SP_TeacherbyPrincipal' expects parameter '@Subject', which was not supplied.
+20181124Procedure or function 'SP_TeacherbyPrincipal' expects parameter '@Subject', which was not supplied.
+20181124Procedure or function 'SP_TeacherbyPrincipal' expects parameter '@Subject', which was not supplied.
+20181124Procedure or function 'SP_TeacherbyPrincipal' expects parameter '@Subject', which was not supplied.
+20181124Procedure or function 'SP_TeacherbyPrincipal' expects parameter '@Subject', which was not supplied.
+20181124Procedure or function 'SP_TeacherbyPrincipal' expects parameter '@Subject', which was not supplied.
+20181124Procedure or function 'SP_TeacherbyPrincipal' expects parameter '@Subject', which was not supplied.
+20181125The DELETE statement conflicted with the REFERENCE constraint "FK__Student_D__Class__2018A105". The conflict occurred in database "Go2uni", table "studentinfo.Student_Details", column 'Class_ID'.
+The statement has been terminated.
+20181125The DELETE statement conflicted with the REFERENCE constraint "FK__Student_D__Class__2018A105". The conflict occurred in database "Go2uni", table "studentinfo.Student_Details", column 'Class_ID'.
+The statement has been terminated.
+20181125The DELETE statement conflicted with the REFERENCE constraint "FK__Student_D__Class__2018A105". The conflict occurred in database "Go2uni", table "studentinfo.Student_Details", column 'Class_ID'.
+The DELETE statement conflicted with the REFERENCE constraint "FK__Study_Gro__Creat__2823D721". The conflict occurred in database "Go2uni", table "studentinfo.Study_Group", column 'CreatedBy_StuID_Fk'.
+The statement has been terminated.
+The statement has been terminated.
+20181125The DELETE statement conflicted with the REFERENCE constraint "FK__Student_D__Class__2018A105". The conflict occurred in database "Go2uni", table "studentinfo.Student_Details", column 'Class_ID'.
+The DELETE statement conflicted with the REFERENCE constraint "FK__Study_Gro__Creat__2823D721". The conflict occurred in database "Go2uni", table "studentinfo.Study_Group", column 'CreatedBy_StuID_Fk'.
+The statement has been terminated.
+The statement has been terminated.
+20181126The DELETE statement conflicted with the REFERENCE constraint "FK__Study_Gro__Creat__2823D721". The conflict occurred in database "Go2uni", table "studentinfo.Study_Group", column 'CreatedBy_StuID_Fk'.
+The statement has been terminated.
+20181130Name
+20181130Name
+20181130Name
+20181130Name
+20181130Invalid column name 'ClassID'.
+2018124A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018125SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2018125SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+2018125Object cannot be cast from DBNull to other types.
+2018126Procedure or function 'SP_TeacherbyPrincipal' expects parameter '@ProfileImage', which was not supplied.
+2018126Procedure or function 'SP_TeacherbyPrincipal' expects parameter '@ProfileImage', which was not supplied.
+2018127Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2018127Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2018127Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2018127Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2018127Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2018127Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2018128A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+2018128A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018128A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018128A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018128A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018128A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018128A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018128A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018128A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018128A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018128A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2018128Procedure or function 'SP_TeacherbyPrincipal' expects parameter '@ProfileImage', which was not supplied.
+2018128The DELETE statement conflicted with the REFERENCE constraint "FK__Study_Gro__Creat__2823D721". The conflict occurred in database "Go2uni", table "studentinfo.Study_Group", column 'CreatedBy_StuID_Fk'.
+The statement has been terminated.
+20181211Must declare the scalar variable "@ID".
+20181212Must declare the scalar variable "@ID".
+20181212Must declare the scalar variable "@ID".
+20181212Must declare the scalar variable "@ID".
+20181212Must declare the scalar variable "@ID".
+20181212Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+20181212Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+20181217Must declare the scalar variable "@ID".
+20181217Must declare the scalar variable "@ID".
+20181217Must declare the scalar variable "@ID".
+20181217Must declare the scalar variable "@ID".
+20181217Must declare the scalar variable "@ID".
+20181217Must declare the scalar variable "@ID".
+20181217Must declare the scalar variable "@ID".
+20181217Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181218Must declare the scalar variable "@ID".
+20181219Must declare the scalar variable "@ID".
+20181220Must declare the scalar variable "@ID".
+20181220Must declare the scalar variable "@ID".
+20181220Must declare the scalar variable "@ID".
+20181221A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+20181221A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+20181221A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+20181227A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+20181228A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+20181229A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019114A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019121Invalid column name 'Content'.
+2019121Invalid column name 'Content'.
+2019121Invalid column name 'Content'.
+2019121Invalid column name 'Content'.
+2019121Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2019121Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2019121A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019121A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019124Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2019124Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2019124A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019124A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019124A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019131String was not recognized as a valid DateTime.
+2019131String was not recognized as a valid DateTime.
+2019131String was not recognized as a valid DateTime.
+2019131String was not recognized as a valid DateTime.
+2019131String was not recognized as a valid DateTime.
+2019131A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019131String was not recognized as a valid DateTime.
+2019131String was not recognized as a valid DateTime.
+2019131String was not recognized as a valid DateTime.
+2019131String was not recognized as a valid DateTime.
+2019131String was not recognized as a valid DateTime.
+2019131String was not recognized as a valid DateTime.
+2019131Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2019131Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2019131Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2019131Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=762; handshake=14791; 
+2019131Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+201921A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+201921A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+201921A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+201924Object cannot be cast from DBNull to other types.
+201924Object cannot be cast from DBNull to other types.
+201924Object cannot be cast from DBNull to other types.
+201924Object cannot be cast from DBNull to other types.
+201924Object cannot be cast from DBNull to other types.
+201924Object cannot be cast from DBNull to other types.
+201924Object cannot be cast from DBNull to other types.
+201924Object cannot be cast from DBNull to other types.
+201924Object cannot be cast from DBNull to other types.
+201924Object cannot be cast from DBNull to other types.
+201924Object cannot be cast from DBNull to other types.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_getNote'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201928Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201929Could not find stored procedure 'SP_getNote'.
+201929Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201929Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201929Could not find stored procedure 'SP_getNote'.
+201929Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201929Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201929Could not find stored procedure 'SP_getNote'.
+201929Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201929Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201929Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201929Could not find stored procedure 'SP_getNote'.
+201929Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201929Could not find stored procedure 'SP_DetailsofGoal'.
+201929Could not find stored procedure 'SP_getNote'.
+201929Could not find stored procedure 'SP_GetNextCollegeEvent'.
+201929Could not find stored procedure 'SP_UpcomingEventForRightSide'.
+201929Could not find stored procedure 'SP_DetailsofGoal'.
+201929Could not find stored procedure 'SP_DetailsofGoal'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_getNote'.
+2019212Could not find stored procedure 'SP_GetAllLevel'.
+2019212Could not find stored procedure 'SP_GetAllSemester'.
+2019212Could not find stored procedure 'SP_GetAllLevel'.
+2019212Could not find stored procedure 'SP_GetAllSemester'.
+2019212Could not find stored procedure 'SP_GetAllLevel'.
+2019212Could not find stored procedure 'SP_GetAllSemester'.
+2019213Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2019213A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019213A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019213A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019213A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019213A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019213A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019213A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019213A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019213A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019213A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019213A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019213A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019213A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019213Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2019213Object cannot be cast from DBNull to other types.
+2019213Object cannot be cast from DBNull to other types.
+2019213Object cannot be cast from DBNull to other types.
+2019213Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2019214Could not find stored procedure 'SP_GetAllEventCurrent'.
+2019214Could not find stored procedure 'SP_GetAllEventCurrent'.
+2019214Could not find stored procedure 'SP_GetAllEventCurrent'.
+2019214Could not find stored procedure 'SP_GetAllEventCurrent'.
+2019214Could not find stored procedure 'SP_GetAllEventCurrent'.
+2019214Could not find stored procedure 'SP_GetAllLevel'.
+2019214Could not find stored procedure 'SP_GetAllSemester'.
+2019214Could not find stored procedure 'SP_GetAllLevel'.
+2019214Could not find stored procedure 'SP_GetAllSemester'.
+2019214Object cannot be cast from DBNull to other types.
+2019214Object cannot be cast from DBNull to other types.
+2019214Object cannot be cast from DBNull to other types.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019214Invalid attempt to call MetaData when reader is closed.
+2019215A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019217Could not find stored procedure 'SP_GetAllLevel'.
+2019217Could not find stored procedure 'SP_GetAllSemester'.
+2019217Could not find stored procedure 'SP_GetAllLevel'.
+2019217Could not find stored procedure 'SP_GetAllSemester'.
+2019217Could not find stored procedure 'SP_GetAllLevel'.
+2019217Could not find stored procedure 'SP_GetAllSemester'.
+2019217Could not find stored procedure 'SP_GetAllLevel'.
+2019217Could not find stored procedure 'SP_GetAllSemester'.
+2019217Could not find stored procedure 'SP_GetAllLevel'.
+2019217Could not find stored procedure 'SP_GetAllSemester'.
+2019217Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2019217Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2019217Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2019218A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+2019218Object cannot be cast from DBNull to other types.
+2019218Object cannot be cast from DBNull to other types.
+2019218Object cannot be cast from DBNull to other types.
+2019228A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+201938Invalid column name 'IsDeleted'.
+2019312Could not find stored procedure 'SP_GetAllLevel'.
+2019312Could not find stored procedure 'SP_GetAllSemester'.
+2019312Could not find stored procedure 'SP_GetAllLevel'.
+2019312Could not find stored procedure 'SP_GetAllSemester'.
+2019527A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The network connection was aborted by the local system.)
+2019529A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019529A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019529A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019529A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019529A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019529Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2019529A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019529A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019529A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019619A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019619A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019619A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019619A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019619A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019619A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019619A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019619A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019620A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+2019620A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019620A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019624Could not find stored procedure 'SP_GetAllLevel'.
+2019624Could not find stored procedure 'SP_GetAllSemester'.
+2019624Could not find stored procedure 'SP_GetAllLevel'.
+2019624Could not find stored procedure 'SP_GetAllSemester'.
+2019627Object cannot be cast from DBNull to other types.
+2019627Object cannot be cast from DBNull to other types.
+2019627Object cannot be cast from DBNull to other types.
+2019627Object cannot be cast from DBNull to other types.
+2019627Object cannot be cast from DBNull to other types.
+2019627Object cannot be cast from DBNull to other types.
+2019627Object cannot be cast from DBNull to other types.
+2019627Object cannot be cast from DBNull to other types.
+2019627Object cannot be cast from DBNull to other types.
+2019628CorrecrOption
+2019629QuestionTypeID
+2019629Object cannot be cast from DBNull to other types.
+2019629Object cannot be cast from DBNull to other types.

@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <Name>DB</Name>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectVersion>4.1</ProjectVersion>
+    <ProjectGuid>{a53222b9-809d-434f-8fe8-e9518c98ba0b}</ProjectGuid>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql130DatabaseSchemaProvider</DSP>
+    <OutputType>Database</OutputType>
+    <RootPath>
+    </RootPath>
+    <RootNamespace>DB</RootNamespace>
+    <AssemblyName>DB</AssemblyName>
+    <ModelCollation>1033, CI</ModelCollation>
+    <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
+    <DeployToDatabase>True</DeployToDatabase>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetLanguage>CS</TargetLanguage>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <SqlServerVerification>False</SqlServerVerification>
+    <IncludeCompositeObjects>True</IncludeCompositeObjects>
+    <TargetDatabaseSet>True</TargetDatabaseSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
+    <!-- Default to the v11.0 targets path if the targets file for the current VS version is not found -->
+    <SSDTExists Condition="Exists('$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets')">True</SSDTExists>
+    <VisualStudioVersion Condition="'$(SSDTExists)' == ''">11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Condition="'$(SQLDBExtensionsRefPath)' != ''" Project="$(SQLDBExtensionsRefPath)\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <ItemGroup>
+    <Folder Include="Properties" />
+    <Folder Include="test\" />
+    <Folder Include="test\Tables\" />
+    <Folder Include="task\" />
+    <Folder Include="task\Tables\" />
+    <Folder Include="studentinfo\" />
+    <Folder Include="studentinfo\Tables\" />
+    <Folder Include="guidance\" />
+    <Folder Include="guidance\Tables\" />
+    <Folder Include="collegeEvents\" />
+    <Folder Include="collegeEvents\Tables\" />
+    <Folder Include="Security\" />
+    <Folder Include="dbo\" />
+    <Folder Include="dbo\Stored Procedures\" />
+    <Folder Include="test\Stored Procedures\" />
+    <Folder Include="task\Stored Procedures\" />
+    <Folder Include="proc_community\" />
+    <Folder Include="proc_community\Stored Procedures\" />
+    <Folder Include="guidance\Stored Procedures\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="test\Tables\Online_Test_Question.sql" />
+    <Build Include="test\Tables\Online_Test_Modules.sql" />
+    <Build Include="test\Tables\Online_Test.sql" />
+    <Build Include="test\Tables\Online_Test_Subject.sql" />
+    <Build Include="task\Tables\GlobalTask_Team.sql" />
+    <Build Include="task\Tables\GlobalTask.sql" />
+    <Build Include="studentinfo\Tables\Online_Community_Comment.sql" />
+    <Build Include="studentinfo\Tables\Online_Community.sql" />
+    <Build Include="studentinfo\Tables\Student_Basic.sql" />
+    <Build Include="studentinfo\Tables\Study_Group_Test.sql" />
+    <Build Include="studentinfo\Tables\Study_Group_Member.sql" />
+    <Build Include="studentinfo\Tables\Study_Group_Comment.sql" />
+    <Build Include="studentinfo\Tables\Study_Group.sql" />
+    <Build Include="studentinfo\Tables\Student_Additional.sql" />
+    <Build Include="studentinfo\Tables\Online_Community_Members.sql" />
+    <Build Include="studentinfo\Tables\Online_Community_Comment_Reply.sql" />
+    <Build Include="guidance\Tables\Guidance_Comments_Reply.sql" />
+    <Build Include="guidance\Tables\Guidance_Comments.sql" />
+    <Build Include="guidance\Tables\Guidance.sql" />
+    <Build Include="collegeEvents\Tables\NextCollege_Comments.sql" />
+    <Build Include="collegeEvents\Tables\NextCollege.sql" />
+    <Build Include="collegeEvents\Tables\NextCollege_Comments_Reply.sql" />
+    <Build Include="Security\admin.sql" />
+    <Build Include="Security\RoleMemberships.sql" />
+    <Build Include="dbo\Stored Procedures\UpdateStudentAdditionalData.sql" />
+    <Build Include="dbo\Stored Procedures\SP_StudentUpdatePassword.sql" />
+    <Build Include="dbo\Stored Procedures\SP_StudentLogIn.sql" />
+    <Build Include="dbo\Stored Procedures\SP_InsertStudent.sql" />
+    <Build Include="dbo\Stored Procedures\SP_InsertGroupTest.sql" />
+    <Build Include="dbo\Stored Procedures\SP_InsertGroupComment.sql" />
+    <Build Include="dbo\Stored Procedures\SP_InsertDatatoStudyGroupMembers.sql" />
+    <Build Include="dbo\Stored Procedures\SP_InsertDatatoStudyGroup.sql" />
+    <Build Include="dbo\Stored Procedures\SP_InsertCollegeDayReplyCooments.sql" />
+    <Build Include="dbo\Stored Procedures\SP_InsertCollegeDayCooments.sql" />
+    <Build Include="dbo\Stored Procedures\SP_InsertCollegeDay.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetallDatafromStudentsByID.sql" />
+    <Build Include="dbo\Stored Procedures\getstudentdatabyemail.sql" />
+    <Build Include="dbo\Stored Procedures\getGroupinfoByID.sql" />
+    <Build Include="dbo\Stored Procedures\getallDatafromStudents.sql" />
+    <Build Include="dbo\Stored Procedures\getallCommentsbyGroupID.sql" />
+    <Build Include="test\Stored Procedures\SP_InsertOnlineTest.sql" />
+    <Build Include="test\Stored Procedures\SP_InsertSubject.sql" />
+    <Build Include="test\Stored Procedures\SP_Insertquestions.sql" />
+    <Build Include="test\Stored Procedures\SP_InsertModules.sql" />
+    <Build Include="task\Stored Procedures\SP_InsertTeam.sql" />
+    <Build Include="task\Stored Procedures\SP_InsertglobalTask.sql" />
+    <Build Include="proc_community\Stored Procedures\SP_GetAllOnlineCommunity.sql" />
+    <Build Include="proc_community\Stored Procedures\GetOnlineCommunityByID.sql" />
+    <Build Include="proc_community\Stored Procedures\SP_InsertReplyComment.sql" />
+    <Build Include="proc_community\Stored Procedures\SP_InsertOnlineCommunityComment.sql" />
+    <Build Include="proc_community\Stored Procedures\SP_InsertOnlineCommunity.sql" />
+    <Build Include="proc_community\Stored Procedures\SP_InsertcommunityMember.sql" />
+    <Build Include="guidance\Stored Procedures\SP_InsertGuidanceCommentsReply.sql" />
+    <Build Include="guidance\Stored Procedures\SP_InsertGuidanceComments.sql" />
+    <Build Include="guidance\Stored Procedures\SP_InsertGuidance.sql" />
+    <Build Include="Security\test.sql" />
+    <Build Include="Security\task.sql" />
+    <Build Include="Security\studentinfo.sql" />
+    <Build Include="Security\proc_community.sql" />
+    <Build Include="Security\guidance.sql" />
+    <Build Include="Security\collegeEvents.sql" />
+    <Build Include="studentinfo\Tables\Study_Group_Topic.sql" />
+    <Build Include="studentinfo\Tables\Online_Community_Topic.sql" />
+    <Build Include="Security\admin_1.sql" />
+    <Build Include="proc_community\Stored Procedures\SP_GetAllOnlineCommunityMember.sql" />
+    <Build Include="dbo\Stored Procedures\SP_InsertStudyGroupTopic.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetStudyGroupTopic.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetGroupNameByID.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetCommentByGroupID.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetallTopicDetails.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetallCommunityTopic.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetallCommunity.sql" />
+  </ItemGroup>
+</Project>
